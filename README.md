@@ -1,4 +1,4 @@
-# Tlahtolli
+# Tlahtōlli
 Automaton for text lexing, parsing, processing, and analysis.
 
 ![Tests](https://img.shields.io/badge/tests-Mocha_+_Chai-saddlebrown?logo=mocha&logoColor=white&style=for-the-badge)
