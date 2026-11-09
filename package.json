@@ -1,14 +1,14 @@
 {
-  "name": "@zhnuggo/PACKAGENAME",
+  "name": "@zhnuggo/tlahtolli",
   "version": "1.0.0",
-  "description": "PACKAGEDESC",
-  "homepage": "https://github.com/zhnuggo/PACKAGENAME",
+  "description": "Automaton for text lexing, parsing, processing, and analysis.",
+  "homepage": "https://github.com/zhnuggo/tlahtolli",
   "bugs": {
-    "url": "https://github.com/zhnuggo/PACKAGENAME/issues"
+    "url": "https://github.com/zhnuggo/tlahtolli/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhnuggo/PACKAGENAME.git"
+    "url": "git+https://github.com/zhnuggo/tlahtolli.git"
   },
   "files": ["index.js", "index.d.ts"],
   "types": "index.d.ts",
